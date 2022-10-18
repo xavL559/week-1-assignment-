@@ -1,1 +1,1 @@
-# week-1-assignment-
+# week-1-assignment- This repository is about me showing what i know already and what i know of html and css so far.
