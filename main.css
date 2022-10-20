@@ -5,3 +5,13 @@ h1 {
 .bold {
     font-weight: bold;
 }
+
+.copyright {
+    font-size: 10px;
+}
+
+.img {
+    transform: rotate(90deg);
+    border: 2px solid black;
+  display: inline-flex;
+}
